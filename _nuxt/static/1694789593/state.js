@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"offer-page\u002F_nuxt\u002Fstatic\u002F1694789593",layout:"default",error:a,state:{theme:"dark",countdown:180},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"offer-page\u002F",assetsPath:"offer-page\u002F_nuxt\u002F",cdnURL:a}}}}(null));
