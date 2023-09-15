@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   router: {
-    base: 'offer-page'
+    base: '/offer-page/'
   },
   head: {
     title: 'Offer page',
