@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('assets/ProximaNova.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Proxima Nova Bold';
+  src: url('assets/ProximaNova_Bold.otf')  format('truetype');
+}
+@font-face {
+  font-family: 'Proxima Nova Extrabold';
+  src: url('assets/ProximaNova_Extrabold.otf')  format('truetype');
+}
+@font-face {
+  font-family: 'Intro';
+  src: url('assets/Intro.ttf')  format('truetype');
+}
+
+body {
+  color: #000000;
+  line-height: 120%;
+}
+
+.orange {
+  color: #FF8D24;
+}
+.blue {
+  color: #4EAAFF;
+}
+.light-blue {
+  color: #66EDFF;
+}
+
+.bold {
+  font-weight: 800;
+  font-family: 'Proxima Nova Extrabold', sans-serif;
+}
